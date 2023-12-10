@@ -2,7 +2,7 @@
 
 ## Graduate Programs
 - Columbia University, [MA in Climate & Society](https://climatesociety.ei.columbia.edu/)
-- University of Reading, [MSc Climate Change and Artificial Intelligence (AI)](https://www.reading.ac.uk/ready-to-study/study/subject-area/meteorology-and-climate-pg/msc-climate-change-and-artificial-intelligence
+- University of Reading, [MSc Climate Change and Artificial Intelligence (AI)](https://www.reading.ac.uk/ready-to-study/study/subject-area/meteorology-and-climate-pg/msc-climate-change-and-artificial-intelligence)
 - University of London, [MSc Global Energy and Climate Policy (Online)](https://www.soas.ac.uk/study/find-course/msc-global-energy-and-climate-policy-online)
 - Bard College, [Master's in Climate Science and Policy](https://gps.bard.edu/academics/ms-in-climate-science-and-policy)
 - Johns Hopkins, [MS in Energy Policy and Climate](https://advanced.jhu.edu/academics/graduate/ms-energy-policy-climate/)
