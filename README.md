@@ -15,6 +15,7 @@ For search: [Climate Policy Radar](https://app.climatepolicyradar.org/) and the 
 - CarbonBrief, [Interactive: The pathways to meeting the Paris Agreement’s 1.5C limit](https://interactive.carbonbrief.org/one-point-five-pathways/index.html)
   - [Q&A: How ‘integrated assessment models’ are used to study climate change](https://www.carbonbrief.org/qa-how-integrated-assessment-models-are-used-to-study-climate-change/)
   - [Guest post: The role ‘emulator’ models play in climate change projections](https://www.carbonbrief.org/guest-post-the-role-emulator-models-play-in-climate-change-projections/)
+  - [Q&A: How do climate models work?](https://www.carbonbrief.org/qa-how-do-climate-models-work/)
 
 ### Energy & Economics
 - Harvard, [Energy Within Environmental Constraints](https://pll.harvard.edu/course/energy-within-environmental-constraints)
