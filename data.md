@@ -9,7 +9,9 @@
 - UNFCCC [historical emissions](https://di.unfccc.int/time_series) (also available via Climate Watch)
 - [Global Carbon Budget](https://www.globalcarbonproject.org/carbonbudget/) - CO2 only
 - [IEA Methane Tracker](https://www.iea.org/data-and-statistics/data-tools/methane-tracker) (also includes energy breakdowns)
-- [ClimateTRACE](https://climatetrace.org/)
+- [PRIMAP-hist](https://primap.org/primap-hist/#scenario=histcr&id=aze&entity=kyotoghg_(ar4gwp100))
+- IEA [Greenhouse Gas Emissions from Energy Data Explorer](https://www.iea.org/data-and-statistics/data-tools/greenhouse-gas-emissions-from-energy-data-explorer)
+- [ClimateTRACE](https://climatetrace.org/) 
 
 ### energy
 - [EIA International Data](https://www.eia.gov/international/data/world)
