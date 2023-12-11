@@ -37,7 +37,7 @@ So many classes in [this MIT list on earth systems & climate science](https://oc
 
 ### Data Science & Analysis 
 
-WRI's [Overview of 80+ Climate Data Platforms](https://www.wri.org/data/overview-80-climate-data-platforms)
+For a landscapre of available data and products, see WRI's [Overview of 80+ Climate Data Platforms](https://www.wri.org/data/overview-80-climate-data-platforms) and [this list](https://github.com/charlottemcclintock/climatemasters/blob/main/data.md) of data sources.
 
 - Jon Kropko, [Surfing the Data Pipeline with Python](https://jkropko.github.io/surfing-the-data-pipeline/intro.html)
 - MIT, [Data Storytelling Studio: Climate Change](https://ocw.mit.edu/courses/cms-631-data-storytelling-studio-climate-change-spring-2017/)
